@@ -1,0 +1,11 @@
+In diesem Repository stelle ich ein aktuelles Oberstufenprojekt vor, bei dem wir uns mit der Entwicklung einer KI-unterstützten Sicherheitskamera beschäftigt haben. 
+Ziel dieses Projekts ist es, eine Kamera zu aktivieren, ein Video aufzuzeichnen und dieses Video dann einem KI-Modell zuzuführen, das auf die Erkennung von Objekten spezialisiert ist.
+Sobald das KI-Modell eine Person erkennt, wird ein Warnsignal ausgelöst, und gleichzeitig wird ein Bild aufgenommen. Ursprünglich war geplant, die Bilder in einer Datenbank zu speichern, 
+jedoch haben wir uns später dazu entschieden, die Bilder lokal auf dem Rechner zu speichern. Beim Speichern der Bilder wird der Dateiname in das Datum und die Uhrzeit umgewandelt.
+
+Projekt: KI-Sicherheitskamera
+
+Projektzeitraum: 4 Wochen (je 2x 45 Minuten pro Woche)
+
+Material:
+- Webcam
